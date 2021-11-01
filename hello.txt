@@ -5,6 +5,6 @@ hello Git
 hello Git
 hello Git
 hello Git
-hello Git
-hello Git
+hello Git hot-fix marge
+hello Git master marge
 hello Git hot-fix test
