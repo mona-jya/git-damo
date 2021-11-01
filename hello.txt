@@ -7,4 +7,5 @@ hello Git
 hello Git
 hello Git master merge
 hello Git
-hello Git hot-fix test
+hello Git hot-fix marge
+hello Git master marge
